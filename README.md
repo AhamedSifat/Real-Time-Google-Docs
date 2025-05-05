@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/1.png" />
+  <img src="/public/2.png" />
 </div>
 
 <h1 align="center">📝 Real-Time Google Docs Clone</h1>
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="/public/2.png" />
+  <img src="/public/1.png" />
   <p><i>✨ Docs functionality: Editing, formatting, tables, uploads, and more</i></p>
 </div>
 
