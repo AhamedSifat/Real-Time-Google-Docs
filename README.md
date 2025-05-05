@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x400?text=Real-Time+Google+Docs+Clone+Screenshot" alt="Google Docs Clone Screenshot" />
+  <img src="/1.png" />
 </div>
 
 <h1 align="center">📝 Real-Time Google Docs Clone</h1>
@@ -12,8 +12,20 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/License-MIT-blue" />
+</div>
+
+---
+
+<div align="center">
+  <img src="/2.png" />
+  <p><i>✨ Docs functionality: Editing, formatting, tables, uploads, and more</i></p>
+</div>
+
+<div align="center">
+  <img src="/3.png" />
+  <p><i>🤝 Real-time collaboration: Multi-user editing with presence, chat, and live cursors</i></p>
 </div>
 
 ---
